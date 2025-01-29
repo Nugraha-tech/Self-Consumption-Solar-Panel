@@ -1,0 +1,1 @@
+It utilizes Python programming with Pandas and NumPy for data processing and analysis of energy consumption, production, and self-consumption. The results are visualized using Matplotlib to present data trends, including energy surplus, battery charging/discharging, and hybrid inverter losses.
